@@ -29,6 +29,11 @@ img {
     display: block;
     margin: 0 auto;
 }
-figcaption{
-    text-align: center;
+#colorheader{
+    color: blue;
+}
+.border{
+    border-style: dotted;
+    border-color: red;
+    border-width: 4px;
 }
