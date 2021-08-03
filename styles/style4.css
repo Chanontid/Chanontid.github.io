@@ -1,0 +1,14 @@
+.circle{
+    list-style-type: circle ;
+}
+table ,tr,td,th{
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: 1px;
+}
+tr{
+    text-align: right;
+}
+.newcase {
+    background-color: yellow;
+}
